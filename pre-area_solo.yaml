@@ -75,135 +75,147 @@
     b: 'allow condensation inside the tank to escape.'
     c: 'allow the pressure inside the tank to equalise with the outside pressure.'
 - number: 12
-  question: ''
+  question: 'Aircraft spark plugs may become fouled with a build-up of lead from 
+    the fuel, if the engine is operated for any length of time at a:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'high power setting with lean mixture.'
+    b: 'low power setting with a lean mixture.'
+    c: 'high power setting with a rich mixture.'
+    d: 'low power setting with a rich mixture.'
 - number: 13
-  question: ''
+  question: 'If you set the altimeter to QNH, the instrument should read:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'zero feet.'
+    b: 'density altitude.'
+    c: 'pressure altitude.'
+    d: 'vertical distance AMSL.'
 - number: 14
-  question: ''
+  question: 'The red radial line on the airspeed indicator represents the:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'structural cruising speed.'
+    b: 'landing gear lowered speed.'
+    c: 'normal operating speed range.'
+    d: 'never exceed speed.'
 - number: 15
-  question: ''
+  question: 'Rotation about the longitudinal axis is referred to as:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'yawing, and is effected by the rudder.'
+    b: 'yawing, and is effected by the ailerons.'
+    c: 'rolling, and is effected by the ailerons.'
+    d: 'pitching, and is effected by the elevator.'
 - number: 16
-  question: ''
+  question: 'The tendency of an aircraft to return to its original condition 
+    when disturbed from straight and level flight is know as:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'controllability.'
+    b: 'manoeuverability.'
+    c: 'stability.'
+    d: 'balance.'
 - number: 17
-  question: ''
+  question: 'During a climbing turn you must be careful of:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'the tendency to over-bank the aircraft as the horizon is not always obvious.'
+    b: 'decreasing yor rate of climb.'
+    c: 'the tendency to under-bank the aircraft as the horizon is not always obvious.'
 - number: 18
-  question: ''
+  question: 'How is the aircraft\'s performance affected by mud or minor damage on 
+    the surface of the wings?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Lift is decreased, drag is decreased.'
+    b: 'Lift is increased, drag is decreased.'
+    c: 'Lift is increased, drag is increased.'
+    d: 'Lift is decreased, drag is increased.'
 - number: 19
-  question: ''
+  question: 'A blockage of the static system would likely be corrected by applying:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'alternate air on.'
+    b: 'pitot heat on.'
+    c: 'alternate static on.'
+    d: 'carburettor heat on.'
 - number: 20
-  question: ''
+  question: 'During your take-off roll, the airspeed indicator remains at zero. 
+    You should:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'abort the take-off.'
+    b: 'try to work out why the ASI is not working.'
+    c: 'estimate your rotate speed.'
+    d: 'select alternate static and pitot heat on.'
 - number: 21
-  question: ''
+  question: 'If after landing, you find one brake is not working, you should:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'stop on the runway.'
+    b: 'taxi back to the tarmac parking as the nosewheel will still be functional.'
+    c: 'allow your aircraft to slow using most of the runway, taxi clear of the runway, 
+      and radio for assistance on the ground frequency.'
 - number: 22
-  question: ''
+  question: 'For proper internal cooling, the engine must have:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'a functioning oil cooler thermostat.'
+    b: 'a correctly leaned mixture setting.'
+    c: 'circulating oil at a pressure within the permissible range.'
+    d: 'proper airflow over the exhaust manifold.'
 - number: 23
-  question: ''
+  question: 'If you encounter gusting wind in the circuit, what speed would you 
+    try to maintain on the final approach?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'About 5kt above the stall to minimise the impact of the gusts.'
+    b: 'Normal approach speed because it is chosed to account for such conditions.'
+    c: 'About 5 to 10 kt above the normal approach speed depending on the 
+      strengths of the gusts.'
+    d: 'Manouvre speed.'
 - number: 24
-  question: ''
+  question: 'After start, engine oil pressure must reach normal operating pressure 
+    (the green sector) within:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '30 minutes.'
+    b: '10 minutes.'
+    c: '15 seconds.'
+    d: '30 seconds.'
 - number: 25
-  question: ''
+  question: 'While taxiing, you notice another aircraft is approaching you on the same 
+    taxiway from the opposite direction. Should you:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'continue straight ahead and be prepared to stop.'
+    b: 'move to the left and stop if necessary.'
+    c: 'move to the right and stop if necessary.'
+    d: 'stop immediately.'
 - number: 26
-  question: ''
+  question: 'An aircraft will stall:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'at a higher speed if power is increased.'
+    b: 'at the same indicated airspeed as altitude increases.'
+    c: 'when the aircraft\'s weight exceeds lift'
+    d: 'at a lower indicated airspeed as altitude decreases.'
 - number: 27
-  question: ''
+  question: 'When comparing the hazards of wake turbulence, the wingtip vortices 
+    trailing behind large aeroplanes in flight:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'will present no hazard when the vortices are encountered in level 
+      cruising flight.'
+    b: 'will increase in intensity and violence as the speed of the large 
+      aeroplane increases'
+    c: 'are most severe when the large aeroplane is at low speed during 
+      climbs or approaches for landings.'
 - number: 28
-  question: ''
+  question: 'For proper cooling the engine must have:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'the correct mixture setting for that operation.'
+    b: 'the correct quantity of oil in the engine.'
+    c: 'the correct amount of cooling airflow around the engine.'
+    d: 'all of the above.'
 - number: 29
-  question: ''
+  question: 'Detonation occurs in a reciprocating engine when:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'a spark plug is fouled and shorts out.'
+    b: 'the mixture is too rich.'
+    c: 'the charge explodes instead of just burning.'
+    d: 'hot spots ignite the mixture too soon.'
 - number: 30
-  question: ''
+  question: 'Although the master switch is off, before leaving an aircraft a 
+    pilot most also ensure that the magneto switch is off. The reason for this is:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'the magneto system is independent of the aircraft power and the engine 
+      could start if the propeller is turned.'
+    b: 'so the key can be removed.'
+    c: 'the magneto system will have no earth and cannot be energised.'
+    d: 'so the battery will not discharge overnight.'
