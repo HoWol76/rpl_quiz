@@ -6,6 +6,7 @@
     c: 'Leaded Fuel.'
     d: 'MOGAS.'
     e: 'AVGAS.'
+  points: 1
 - number: 2
   question: 'What colour is AVGAS 100LL'
   answers:
@@ -13,6 +14,7 @@
     b: 'Blue.'
     c: 'Red or Purple.'
     d: 'Green.'
+  points: 1
 - number: 3
   question: 'The carburettor heat can be used as:'
   answers:
@@ -20,6 +22,7 @@
     b: 'a de-icing action (ice removal).'
     c: 'an alternative supply of air to the engine.'
     d: 'all of the above.'
+  points: 1
 - number: 4
   question: 'Should ice form on your carburettor and you have a small 
     reduction in MP, rpm, or air-speed, you should'
@@ -27,12 +30,14 @@
     a: 'keep adjusting the power by opening the throttle.'
     b: 'apply carburettor heat, full-on.'
     c: 'use alternate static.'
+  points: 1
 - number: 5
   question: 'Ice that forms on the engine air filter is known as:'
   answers:
     a: 'throttle ice.'
     b: 'fuel evaporation ice.'
     c: 'impact ice.'
+  points: 1
 - number: 6
   question: 'What common action should be taken if impact or throttle icing occurs?'
   answers:
@@ -40,6 +45,7 @@
     b: 'Increase power.'
     c: 'Apply carburettor heat.'
     d: 'Warm the engine.'
+  points: 1
 - number: 7
   question: 'After flying for some time, the centre-zero ammeter shows almost zero 
     (just a small positive indication). This would mean:'
@@ -48,12 +54,14 @@
     b: 'insufficient electrical output is being produced by the alternator.'
     c: 'that the battery is being recharged.'
     d: 'that the battery is fully charged and the system is working normally.'
+  points: 1
 - number: 8
   question: 'If the alternator fails, the electrical system will receive power from:'
   answers:
     a: 'an emergency generator.'
     b: 'the battery.'
     c: 'a wind-driven electrical generating device.'
+  points: 1
 - number: 9
   question: 'Should the alternator fail and the battery power being consumed:'
   answers:
@@ -61,6 +69,7 @@
     b: 'the fuel boost pump would still be available.'
     c: 'most of the engine instruments would stop working.'
     d: 'the engine would malfunction.'
+  points: 1
 - number: 10
   question: 'Excessive priming of an engine can:'
   answers:
@@ -68,12 +77,14 @@
     b: 'increase the risk of manifold fire during start.'
     c: 'reduce the amount of fuel available in the manifold.'
     d: 'adversely effect the the oil pressure.'
+  points: 1
 - number: 11
   question: 'Aircraft fuel tanks require a vent, the purpose of which is to:'
   answers:
     a: 'avoid build up of dangerous fumes.'
     b: 'allow condensation inside the tank to escape.'
     c: 'allow the pressure inside the tank to equalise with the outside pressure.'
+  points: 1
 - number: 12
   question: 'Aircraft spark plugs may become fouled with a build-up of lead from 
     the fuel, if the engine is operated for any length of time at a:'
@@ -82,6 +93,7 @@
     b: 'low power setting with a lean mixture.'
     c: 'high power setting with a rich mixture.'
     d: 'low power setting with a rich mixture.'
+  points: 1
 - number: 13
   question: 'If you set the altimeter to QNH, the instrument should read:'
   answers:
@@ -89,6 +101,7 @@
     b: 'density altitude.'
     c: 'pressure altitude.'
     d: 'vertical distance AMSL.'
+  points: 1
 - number: 14
   question: 'The red radial line on the airspeed indicator represents the:'
   answers:
@@ -96,6 +109,7 @@
     b: 'landing gear lowered speed.'
     c: 'normal operating speed range.'
     d: 'never exceed speed.'
+  points: 1
 - number: 15
   question: 'Rotation about the longitudinal axis is referred to as:'
   answers:
@@ -103,6 +117,7 @@
     b: 'yawing, and is effected by the ailerons.'
     c: 'rolling, and is effected by the ailerons.'
     d: 'pitching, and is effected by the elevator.'
+  points: 1
 - number: 16
   question: 'The tendency of an aircraft to return to its original condition 
     when disturbed from straight and level flight is know as:'
@@ -111,12 +126,14 @@
     b: 'manoeuverability.'
     c: 'stability.'
     d: 'balance.'
+  points: 1
 - number: 17
   question: 'During a climbing turn you must be careful of:'
   answers:
     a: 'the tendency to over-bank the aircraft as the horizon is not always obvious.'
     b: 'decreasing yor rate of climb.'
     c: 'the tendency to under-bank the aircraft as the horizon is not always obvious.'
+  points: 1
 - number: 18
   question: 'How is the aircraft\'s performance affected by mud or minor damage on 
     the surface of the wings?'
@@ -125,6 +142,7 @@
     b: 'Lift is increased, drag is decreased.'
     c: 'Lift is increased, drag is increased.'
     d: 'Lift is decreased, drag is increased.'
+  points: 1
 - number: 19
   question: 'A blockage of the static system would likely be corrected by applying:'
   answers:
@@ -132,6 +150,7 @@
     b: 'pitot heat on.'
     c: 'alternate static on.'
     d: 'carburettor heat on.'
+  points: 1
 - number: 20
   question: 'During your take-off roll, the airspeed indicator remains at zero. 
     You should:'
@@ -140,6 +159,7 @@
     b: 'try to work out why the ASI is not working.'
     c: 'estimate your rotate speed.'
     d: 'select alternate static and pitot heat on.'
+  points: 1
 - number: 21
   question: 'If after landing, you find one brake is not working, you should:'
   answers:
@@ -147,6 +167,7 @@
     b: 'taxi back to the tarmac parking as the nosewheel will still be functional.'
     c: 'allow your aircraft to slow using most of the runway, taxi clear of the runway, 
       and radio for assistance on the ground frequency.'
+  points: 1
 - number: 22
   question: 'For proper internal cooling, the engine must have:'
   answers:
@@ -154,6 +175,7 @@
     b: 'a correctly leaned mixture setting.'
     c: 'circulating oil at a pressure within the permissible range.'
     d: 'proper airflow over the exhaust manifold.'
+  points: 1
 - number: 23
   question: 'If you encounter gusting wind in the circuit, what speed would you 
     try to maintain on the final approach?'
@@ -163,6 +185,7 @@
     c: 'About 5 to 10 kt above the normal approach speed depending on the 
       strengths of the gusts.'
     d: 'Manouvre speed.'
+  points: 1
 - number: 24
   question: 'After start, engine oil pressure must reach normal operating pressure 
     (the green sector) within:'
@@ -171,6 +194,7 @@
     b: '10 minutes.'
     c: '15 seconds.'
     d: '30 seconds.'
+  points: 1
 - number: 25
   question: 'While taxiing, you notice another aircraft is approaching you on the same 
     taxiway from the opposite direction. Should you:'
@@ -179,6 +203,7 @@
     b: 'move to the left and stop if necessary.'
     c: 'move to the right and stop if necessary.'
     d: 'stop immediately.'
+  points: 1
 - number: 26
   question: 'An aircraft will stall:'
   answers:
@@ -186,6 +211,7 @@
     b: 'at the same indicated airspeed as altitude increases.'
     c: 'when the aircraft\'s weight exceeds lift'
     d: 'at a lower indicated airspeed as altitude decreases.'
+  points: 1
 - number: 27
   question: 'When comparing the hazards of wake turbulence, the wingtip vortices 
     trailing behind large aeroplanes in flight:'
@@ -196,6 +222,7 @@
       aeroplane increases'
     c: 'are most severe when the large aeroplane is at low speed during 
       climbs or approaches for landings.'
+  points: 1
 - number: 28
   question: 'For proper cooling the engine must have:'
   answers:
@@ -203,6 +230,7 @@
     b: 'the correct quantity of oil in the engine.'
     c: 'the correct amount of cooling airflow around the engine.'
     d: 'all of the above.'
+  points: 1
 - number: 29
   question: 'Detonation occurs in a reciprocating engine when:'
   answers:
@@ -210,6 +238,7 @@
     b: 'the mixture is too rich.'
     c: 'the charge explodes instead of just burning.'
     d: 'hot spots ignite the mixture too soon.'
+  points: 1
 - number: 30
   question: 'Although the master switch is off, before leaving an aircraft a 
     pilot most also ensure that the magneto switch is off. The reason for this is:'
@@ -219,3 +248,4 @@
     b: 'so the key can be removed.'
     c: 'the magneto system will have no earth and cannot be energised.'
     d: 'so the battery will not discharge overnight.'
+  points: 1
