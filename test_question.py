@@ -31,15 +31,18 @@ def test_question():
     assert possible_answers['c'] == 'Red'
     assert 'd' not in possible_answers
 
+
 def test_question_false_answer():
     q = make_question(solution='a')
     result = q.answer('b')
     assert result == 0
 
+
 def test_question_correct_answer():
     q = make_question(solution='b')
     result = q.answer('b')
     assert result == 1
+
 
 def test_question_more_points():
     q = make_question(points=4, solution='a')
@@ -47,3 +50,8 @@ def test_question_more_points():
     assert result == 0
     result = q.answer('a')
     assert result == 4
+
+
+def test_solution():
+    q = make_question(solution='b')
+    assert q.solution == 'b'
