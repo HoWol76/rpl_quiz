@@ -1,0 +1,23 @@
+quesitions:
+- number: 1
+  question: "What colour is the sky?"
+  answers:
+    a: "Blue"
+    b: "Black"
+    c: "Green"
+    d: "Yellow"
+  correct_answer: a
+  points: 1
+- number: 2
+  question: Which force keeps an aircraft in the air?
+  answers:
+    a: Drag
+    b: Lift
+    c: Weight
+    d: Thrust
+  correct_answer: a
+  points: 2
+
+solutions:
+  1: a
+  2: b
