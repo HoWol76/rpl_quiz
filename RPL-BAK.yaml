@@ -82,108 +82,118 @@
     d: 'decrease the stalling angle.'
   points: 1
 - number: 11
-  question: ''
+  question: 'What happens to lift and drag as the angle of attack approaches 
+    the stalling angle?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Lift increases and drag increases'
+    b: 'Lift increases and drag decreases'
+    c: 'Lift decreases and drag decreases'
+    d: 'Lift decreases and drag increases'
   points: 1
 - number: 12
-  question: ''
+  question: 'An aeroplane is descending at the best gliding speed. Raising the 
+    nose will:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'increase the gliding range.'
+    b: 'decrease the gliding range.'
+    c: 'decrease the gliding angle.'
+    d: 'decrease the rate of descent.'
   points: 1
 - number: 13
-  question: ''
+  question: 'When compared to the stall IAS at 1,000 ft, the stall IAS at 
+    10,000 ft will:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'increase by approximately 40%.'
+    b: 'decrease by approximately 40%.'
+    c: 'be the same.'
+    d: 'vary according to the actual density at 10,000 ft.'
   points: 1
 - number: 14
-  question: ''
+  question: 'If a tailwind is encountered during a glide descent, when compared 
+    with a glide in still-air conditions, the:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'aeroplane pitch angle will be shallower.'
+    b: 'flightpath over ground will be steeper.'
+    c: 'distance over ground will be greater.'
+    d: 'rate of decent will be less.'
   points: 1
 - number: 15
-  question: ''
+  question: 'When in a 30 degree banked level turn, the load factor:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'is the same as in straight an level flight.'
+    b: 'decreases by a factor of 15%.'
+    c: 'will increase to 1.15g.'
+    d: 'will be limited by the airspeed.'
   points: 1
 - number: 16
-  question: ''
+  question: 'What are the VMC requirements for a VFR flight conducted in Class G 
+    airspace between 3,000 fg AMSL (or 1,000 ft AGL if higher) and 10,000 ft AMSL?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Visibility 5 km, clear of cloud.'
+    b: 'Visibility 8 km, 1,000 metre horizontally from cloud, 1,000 ft above or 
+      below cloud.'
+    c: 'Visibility 5,000 metres, 1,500 metres horizontally from cloud, 1,000 ft 
+      vertically from cloud.'
+    d: 'Visibility 8,000 metres, clear of cloud.'
   points: 1
 - number: 17
-  question: ''
+  question: 'A cold front is likely to produce:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'cumiliform clouds with smooth flying conditions.'
+    b: 'stratiform clouds with smooth flying conditions.'
+    c: 'cumiliform clouds with turbulent flying conditions.'
+    d: 'stratiform clouds with turbulent conditions.'
   points: 1
 - number: 18
-  question: ''
+  question: 'The term INTER on a forecast means that the weather will be:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'interminable in nature.'
+    b: 'expected to last for at least 60 minutes.'
+    c: 'interrupted every 30 minutes.'
+    d: 'expected to last for less than 30 minutes.'
   points: 1
 - number: 19
-  question: ''
+  question: 'The cloud base in a TAF is given as height above:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'the 1013.2 hPa level.'
+    b: 'the highest ground within 10 km of the aerodrome.'
+    c: 'mean sea level.'
+    d: 'aerodrome level.'
   points: 1
 - number: 20
-  question: ''
+  question: 'The wind direction in the ATIS is given in:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'degrees true from the wind direction.'
+    b: 'degrees magnetic to the wind direction.'
+    c: 'degrees magnetic from the wind direction.'
+    d: 'devrees true to the wind direction.'
   points: 1
 - number: 21
-  question: ''
+  question: 'Using your navigation computer, determine the true airspeed (TAS) 
+    if you are flying at 120 kt IAS, with temperature +15\u00B0C and a pressure altitude 
+    of 8,000 ft.'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '139 kt'
+    b: '132 kt'
+    c: '127 kt'
+    d: '120 kt'
   points: 1
 - number: 22
-  question: ''
+  question: 'If the time in Sydney on 23 March is 0628 EST, what is the UTC time?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '231628 UTC'
+    b: '222028 UTC'
+    c: '232028 UTC'
+    d: '221628 UTC'
   points: 1
 - number: 23
-  question: ''
+  question: 'The track to your training area is 270\u00B0M. If the wind is from 
+    the south and is causing 10\u00B0 of drift, your heading would be closes to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '270\u00B0T'
+    b: '280\u00B0M'
+    c: '290\u00B0T'
+    d: '260\u00B0M'
   points: 1
 - number: 24
   question: ''
