@@ -128,7 +128,7 @@ questions:
   points: 1
 - number: 16
   question: "What are the VMC requirements for a VFR flight conducted in Class G 
-    airspace between 3,000 fg AMSL (or 1,000 ft AGL if higher) and 10,000 ft AMSL?"
+    airspace between 3,000 ft AMSL (or 1,000 ft AGL if higher) and 10,000 ft AMSL?"
   answers:
     a: "Visibility 5 km, clear of cloud."
     b: "Visibility 8 km, 1,000 metre horizontally from cloud, 1,000 ft above or 
@@ -513,7 +513,7 @@ questions:
     Terminal Information Delta\n
     Runway 12\n
     Wind 150/15\n
-    QNK 1,010
+    QNH 1,010
     Temperature 15\u00B0C\n
     Cloud: FEW 3000\n
     Runway wet.\n
@@ -536,7 +536,7 @@ questions:
     Terminal Information Delta\n
     Runway 12\n
     Wind 150/15\n
-    QNK 1,010
+    QNH 1,010
     Temperature 15\u00B0C\n
     Cloud: FEW 3000\n
     Runway wet.\n
@@ -559,7 +559,7 @@ questions:
     Terminal Information Delta\n
     Runway 12\n
     Wind 150/15\n
-    QNK 1,010
+    QNH 1,010
     Temperature 15\u00B0C\n
     Cloud: FEW 3000\n
     Runway wet.\n
@@ -582,7 +582,7 @@ questions:
     Terminal Information Delta\n
     Runway 12\n
     Wind 150/15\n
-    QNK 1,010
+    QNH 1,010
     Temperature 15\u00B0C\n
     Cloud: FEW 3000\n
     Runway wet.\n
@@ -606,7 +606,7 @@ questions:
     Terminal Information Delta\n
     Runway 12\n
     Wind 150/15\n
-    QNK 1,010
+    QNH 1,010
     Temperature 15\u00B0C\n
     Cloud: FEW 3000\n
     Runway wet.\n
