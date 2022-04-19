@@ -196,84 +196,93 @@
     d: '260\u00B0M'
   points: 1
 - number: 24
-  question: ''
+  question: 'Magnetic variation is:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'the angular difference between magnetic north and compass north.'
+    b: 'the direction in which all compass errors occur.'
+    c: 'always expressed in degrees, either East or West.'
+    d: 'the angular difference between true north and compass north.'
   points: 1
 - number: 25
-  question: ''
+  question: 'A line of longitude on a WAC is:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'drawn north-south and represents true north and true south.'
+    b: 'drawn east-west and represents magnetic north and magnetic south.'
+    c: 'sometimes referred to as isogonal.'
+    d: 'drawn parallel to the next meridian.'
   points: 1
 - number: 26
-  question: ''
+  question: 'On a day when the temperature is 30\u00B0C and the relative humidity 
+    is 30%, carburettor ice:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'is unlikely to form.'
+    b: 'will form with maximum power set.'
+    c: 'is likely to form with cruise power set.'
+    d: 'is highly likely to form with low power set.'
   points: 1
 - number: 27
-  question: ''
+  question: 'Why do most aeroplane piston engines have dual ignition systems?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'For the sole reason of safety in the even of the failure of one magneto.'
+    b: 'For safety and improved combustion.'
+    c: 'For improved combustion even though safety is not increased.'
+    d: 'To spread the load between each of the spark plugs in a cylinder.'
   points: 1
 - number: 28
-  question: ''
+  question: 'If, following combustion, there is unburned fuel remaining in the 
+    cylinders, then the mixture is described as:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'rich.'
+    b: 'chemically correct for the power setting being used.'
+    c: 'lean.'
+    d: 'having a fuel/air ratio of 100%.'
   points: 1
 - number: 29
-  question: ''
+  question: 'What do we call explosive, spontaneous combustion in the cylinders?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Run-on.'
+    b: 'Detonation.'
+    c: 'Pre-ignition.'
+    d: 'Normal combustion.'
   points: 1
 - number: 30
-  question: ''
+  question: 'What is one effect of carburettor heat?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'It will result in more air immediately going through the carburettor.'
+    b: 'It will not affect the fuel-air mixture.'
+    c: 'It will enrich the mixture.'
+    d: 'It will lean the mixture.'
   points: 1
 - number: 31
-  question: ''
+  question: 'Which flight instrument gives a pilot a direct reading of the bank angle?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Direction indicator.'
+    b: 'Attitude indicator.'
+    c: 'Turn coordinator.'
+    d: 'Magnetic compass.'
   points: 1
 - number: 32
-  question: ''
+  question: 'You are cruising in an aeroplane with a fixed-pitch propeller and notice 
+    a slight drop in engine RPM. You suspect carburettor icing and apply full 
+    carburettor heat. Which one of the following statements most correctly indicates 
+    that ice was present?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'There will be an immediate increase in engine rpm as soon as the carburettor 
+      heat is applied.'
+    b: 'The engine will start to run roughly with a further decrease in engine rpm.'
+    c: 'The engine rpm will remain constant.'
+    d: 'The engine rpm will decrease and then increase.'
   points: 1
 - number: 33
-  question: ''
+  question: 'When compared with an engine fitted with a carburettor, which of the 
+    following applies to a fuel-injected engine?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'It is more prone to starting problems and is less susceptible to fuel 
+      contamination.'
+    b: 'It is easier to start when hot and is more responsive to throttle movement.'
+    c: 'It is less likely to have icing problems and is more efficient.'
+    d: 'It requires greater care in throttle handling and is more susceptible to 
+      fuel contamination.'
   points: 1
 - number: 34
   question: ''
