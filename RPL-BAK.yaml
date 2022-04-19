@@ -433,82 +433,190 @@
     d: 'descent will be much more rapid.'
   points: 1
 - number: 51
-  question: ''
+  question: 'To load an aeroplane, where would you find the weight and balance 
+    details for the aircraft?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'In the maintenance release.'
+    b: 'On the passenger manifest.'
+    c: 'In your flight instructors handbook.'
+    d: 'In the aircraft flight manual.'
   points: 1
 - number: 52
-  question: ''
+  question: 'The weight of 230 litres of AVGAS is closest to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '128 kg'
+    b: '145 kg'
+    c: '163 kg'
+    d: '172 kg'
+    e: '180 kg'
   points: 1
 - number: 53
-  question: ''
+  question: '
+  Use "Load System Charlie", p358. \n
+  \n
+  Given: \n
+  EW 695 kg \n
+  IU 19,788 \n
+  The student pilot weighs 60 kg and the instructor weighs 75 kg. \n
+  \n
+  The maximum amount of fuel on board that will allow "utility category" operations immediately after take-off is closest to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
-  points: 1
+    a: '62 litres'
+    b: '88 litres'
+    c: '100 litres'
+    d: '123 litres'
+    e: '135 litres'
+  points: 3
 - number: 54
-  question: ''
+  question: '
+  Use "Load System Charlie", p358. \n
+  \n
+  Given: \n
+  EW 695 kg \n
+  IU 19,788 \n
+  The student pilot weighs 60 kg and the instructor weighs 75 kg. \n
+  \n
+  Load the aircraft with 95 kg weight of baggage and load 170 litres of fuel.\n
+  The zero fuel weight condition is closest to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
-  points: 1
+    a: 'weight 824 kg, arm 2,821 mm'
+    b: 'weight 890 kg, arm 2,933 mm'
+    c: 'weight 932 kg, arm 2,960 mm'
+    d: 'weight 990 kg, arm 3,004 mm'
+  points: 2
 - number: 55
-  question: ''
+  question: '
+  Use "Load System Charlie", p358. \n
+  \n
+  Given: \n
+  EW 695 kg \n
+  IU 19,788 \n
+  The student pilot weighs 60 kg and the instructor weighs 75 kg. \n
+  \n
+  Load the aircraft with 95 kg weight of baggage and load 170 litres of fuel.\n
+  The take-off conditions is closest to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
-  points: 1
+    a: 'weight 932 kg, arm 2,960 mm'
+    b: 'weight 1,013 kg, arm 2,999 mm'
+    c: 'weight 1,035 kg, arm 3,004 mm'
+    d: 'weight 1,053 kg, arm 2,960 mm'
+    e: 'weight 1,102 kg, arm 2,999 mm'
+  points: 2
 - number: 56
-  question: ''
+  question: 'Use the following data\n
+  Airfield:\n
+    Elevation: 1,890 ft\n
+    Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
+    12/30 short grass TODA 1,000 metres (slope 1% down to SE)\n
+  ATIS:\n
+    Terminal Information Delta\n
+    Runway 12\n
+    Wind 150/15\n
+    QNK 1,010
+    Temperature 15\u00B0C\n
+    Cloud: FEW 3000\n
+    Runway wet.\n
+    Works in progress Runway 17/35\n
+  \n
+  The pressure altitude of this airfield is:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
-  points: 1
+    a: '1,800 ft'
+    b: '1,980 ft'
+    c: '2,260 ft'
+    d: '2,440 ft'
+  points: 2
 - number: 57
-  question: ''
+  question: 'Use the following data\n
+  Airfield:\n
+    Elevation: 1,890 ft\n
+    Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
+    12/30 short grass TODA 1,000 metres (slope 1% down to SE)\n
+  ATIS:\n
+    Terminal Information Delta\n
+    Runway 12\n
+    Wind 150/15\n
+    QNK 1,010
+    Temperature 15\u00B0C\n
+    Cloud: FEW 3000\n
+    Runway wet.\n
+    Works in progress Runway 17/35\n
+  \n
+  The density altitude of this airfield is:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
-  points: 1
+    a: '1,800 ft'
+    b: '1,980 ft'
+    c: '2,260 ft'
+    d: '2,460 ft'
+  points: 2
 - number: 58
-  question: ''
+  question: 'Use the following data\n
+  Airfield:\n
+    Elevation: 1,890 ft\n
+    Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
+    12/30 short grass TODA 1,000 metres (slope 1% down to SE)\n
+  ATIS:\n
+    Terminal Information Delta\n
+    Runway 12\n
+    Wind 150/15\n
+    QNK 1,010
+    Temperature 15\u00B0C\n
+    Cloud: FEW 3000\n
+    Runway wet.\n
+    Works in progress Runway 17/35\n
+  \n
+  The headwind component on the duty runway is closest to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '5 kt'
+    b: '8 kt'
+    c: '10 kt'
+    d: '12 kt'
   points: 1
 - number: 59
-  question: ''
+  question: 'Use the following data\n
+  Airfield:\n
+    Elevation: 1,890 ft\n
+    Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
+    12/30 short grass TODA 1,000 metres (slope 1% down to SE)\n
+  ATIS:\n
+    Terminal Information Delta\n
+    Runway 12\n
+    Wind 150/15\n
+    QNK 1,010
+    Temperature 15\u00B0C\n
+    Cloud: FEW 3000\n
+    Runway wet.\n
+    Works in progress Runway 17/35\n
+  \n
+  Use the Cessna take-off chart p376.\n
+  At the MTOW, the take-off distance required on runway 12 is closest to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
-  points: 1
+    a: '550 m.'
+    b: '730 m.'
+    c: '890 m.'
+    d: '980 m.'
+  points: 3
 - number: 60
-  question: ''
+  question: 'Use the following data\n
+  Airfield:\n
+    Elevation: 1,890 ft\n
+    Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
+    12/30 short grass TODA 1,000 metres (slope 1% down to SE)\n
+  ATIS:\n
+    Terminal Information Delta\n
+    Runway 12\n
+    Wind 150/15\n
+    QNK 1,010
+    Temperature 15\u00B0C\n
+    Cloud: FEW 3000\n
+    Runway wet.\n
+    Works in progress Runway 17/35\n
+  \n
+  Use the Piper Landing Chart p 383.\n
+  Under the conditions given, the landing distance required for this aircraft 
+  is closest to:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
-  points: 1
+    a: '310 m.'
+    b: '420 m.'
+    c: '530 m.'
+    d: '640 m.'
+  points: 3
