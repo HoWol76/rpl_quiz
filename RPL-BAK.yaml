@@ -346,84 +346,91 @@
     d: 'the ASI, VSI and altimeter.'
   points: 1
 - number: 41
-  question: ''
+  question: 'If you decide to fly when you have a cold or flu, you put yourself at 
+    risk of:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'being too tired to concentrate.'
+    b: 'having balance difficulties and sinus pain.'
+    c: 'becoming dehydrated.'
+    d: 'developing hypoxia.'
   points: 1
 - number: 42
-  question: ''
+  question: 'Atmospheric pressure variations affect the human body. These pressure 
+    changes are:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'minimum at low level so we generally don\'t need to worry about them.'
+    b: 'minimum at high altitude.'
+    c: 'maximum at high altitude so we need pressurisation and oxygen supplied.'
+    d: 'maximum at low level so we need to understand their adverse effects.'
   points: 1
 - number: 43
-  question: ''
+  question: 'Which of the following drugs are considered acceptable for flying?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Antibiotics.'
+    b: 'Analgesics.'
+    c: 'Antihistamines.'
+    d: 'Amphetamines.'
+    e: 'None of the above.'
   points: 1
 - number: 44
-  question: ''
+  question: 'If an aeroplane is loaded in such a way that the centre of gravity is 
+    outside the forward limit, it will:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'be very unstable longitudinally.'
+    b: 'have a very short momentum arm.'
+    c: 'be very unstable about the normal axis.'
+    d: 'be very nose-heavy and difficult to rotate on take-off.'
   points: 1
 - number: 45
-  question: ''
+  question: 'Along which axis of the aeroplane is the centre of gravity computed?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Laternal.'
+    b: 'Normal.'
+    c: 'Longitudinal.'
+    d: 'All of the above.'
   points: 1
 - number: 46
-  question: ''
+  question: 'An aeroplane must not be operated at a weight in excess of the maximum 
+    certified gross weight because:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'structural limitations will be exceeded.'
+    b: 'an overloaded airplane is excessively stable in flight.'
+    c: 'flight in excess of certificated weights is not possible.'
+    d: 'fuel consumption will be greater.'
   points: 1
 - number: 47
-  question: ''
+  question: 'Which of the following factors improves take-off performance?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'The runway sloping upwards.'
+    b: 'A tailwind.'
+    c: 'A crosswind.'
+    d: 'Low atmospheric pressure.'
+    e: 'Low atmospheric temperature.'
   points: 1
 - number: 48
-  question: ''
+  question: 'V_NO is defined as the:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'maximum indicated airspeed for extended flaps.'
+    b: 'true airspeed beyond which flight is not permitted.'
+    c: 'maximum indicated airspeed for normal operations in smooth conditions.'
+    d: 'indicated airspeed beyond which flight is not permitted.'
   points: 1
 - number: 49
-  question: ''
+  question: 'Strong wake turbulance produced by wingtip vortices is most likely to form:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'behind a heavy aeroplane which is flying slowly just after take-off.'
+    b: 'behind any aeroplane which is flying slowly and with full flap extended.'
+    c: 'behind any aeroplane with is flying at high speed.'
+    d: 'only behind aeroplanes powered by turbo-jet engines.'
   points: 1
 - number: 50
-  question: ''
+  question: 'As you approach to land the wind is gusting. You increase your approach 
+    speed by 5 kt to ensure a margin of safety. This means:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'the approach path flown will be steeper.'
+    b: 'climbing for a go-around will not be possible.'
+    c: 'the LDR will be greater.'
+    d: 'descent will be much more rapid.'
   points: 1
 - number: 51
   question: ''
