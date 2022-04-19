@@ -72,8 +72,18 @@ def test_next_past_last_question():
 
 def test_next_raise_ValueError():
     q = make_questionaire()
-    q.answer('b')
-    q.next()
-    q.answer('b')
+    while True:
+        q.answer('b')
+        if q.remaining == 0:
+            break
+        q.next()
     with pytest.raises(ValueError):
         q.next()
+
+def test_answers():
+    q = make_questionaire()
+    answers = q.answers
+    assert answers['a'] == "Blue"
+    assert answers['b'] == "Black"
+    assert answers['c'] == "Green"
+    assert answers['d'] == "Yellow"

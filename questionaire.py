@@ -117,3 +117,7 @@ class Questionaire:
             self.__active += 1
             self.__active %= len(self)
         self.__active_question = self.__questionaire[self.__active]
+
+    @property
+    def answers(self):
+        return self.__active_question.answers
