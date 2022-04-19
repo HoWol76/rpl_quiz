@@ -1,3 +1,4 @@
+questions:
 - number: 1
   question: 'Seat belts/safety harness must be worn, at all stages of flight, by:'
   answers:
@@ -180,3 +181,26 @@
     b: cause a light to come on and a horn to sound after the aircraft stalls.
     c: indicate that the aircraft is approaching the stall at any attitude.
   points: 1
+
+# Below are the solutions. Please don't read
+solutions:
+  1: a
+  2: b
+  3: d
+  4: a
+  5: b
+  6: c
+  7: b
+  8: c
+  9: a
+  10: a
+  11: c
+  12: c
+  13: b
+  14: a
+  15: d
+  16: b
+  17: c
+  18: b
+  19: d
+  20: c

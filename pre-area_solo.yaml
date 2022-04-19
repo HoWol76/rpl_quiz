@@ -1,3 +1,4 @@
+questions:
 - number: 1
   question: 'An aircraft fitted with a piston engine must be filled with:'
   answers:
@@ -182,8 +183,8 @@
   answers:
     a: 'About 5kt above the stall to minimise the impact of the gusts.'
     b: 'Normal approach speed because it is chosed to account for such conditions.'
-    c: 'About 5 to 10 kt above the normal approach speed depending on the 
-      strengths of the gusts.'
+    c: "About 5 to 10 kt above the normal approach speed depending on the 
+      strengths of the gusts."
     d: 'Manouvre speed.'
   points: 1
 - number: 24
@@ -249,3 +250,36 @@
     c: 'the magneto system will have no earth and cannot be energised.'
     d: 'so the battery will not discharge overnight.'
   points: 1
+
+
+solutions:
+  1: c
+  2: b
+  3: d
+  4: b
+  5: c
+  6: c
+  7: d
+  8: b
+  9: c
+  10: b
+  11: c
+  12: d
+  13: d
+  14: d
+  15: c
+  16: c
+  17: a
+  18: d
+  19: c
+  20: a
+  21: c
+  22: c
+  23: c
+  24: d
+  25: c
+  26: b
+  27: c
+  28: d
+  29: c
+  30: a
