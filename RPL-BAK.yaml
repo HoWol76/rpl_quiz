@@ -16,68 +16,70 @@
     d: 'after each refuelling and/or change of pilots.'
   points: 1
 - number: 3
-  question: ''
+  question: 'Following an incident (a reportable matter), it shall be reported:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'within 72 hours, in writing for an RRM.'
+    b: 'immediately by telephone for an IRM -- followed by a report in writing 
+      within 72 hours.'
+    c: 'Either of the above, as appropriate.'
   points: 1
 - number: 4
-  question: ''
+  question: 'Which of the following would justify a Mayday call?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'You need navigational assistance.'
+    b: 'You sight a capsized yacht off the coast.'
+    c: 'A passenger becomes ill and you need to land for medical assistance.'
+    d: 'You have an engine failure on a training flight.'
   points: 1
 - number: 5
-  question: ''
+  question: 'An aeroplane must not fly over populated area at a height lower than:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '1,500 ft AMSL.'
+    b: '1,000 ft on the area QNH.'
+    c: '1,000 ft AGL.'
+    d: '500 ft AGL.'
   points: 1
 - number: 6
-  question: ''
+  question: 'Increasing power when flying straight and level at cruise speed 
+    will cause:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'an increase in airspeed and a decrease in drag.'
+    b: 'an increase in airspeed and an increase in drag.'
+    c: 'a decrease in airspeed and a decrease in drag.'
+    d: 'a decrease in airspeed and an increase in drag.'
   points: 1
 - number: 7
-  question: ''
+  question: 'What is the effect of lowering full flap?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'An increase in lift and a decrease in drag.'
+    b: 'A decrease in lift and a decrease in drag.'
+    c: 'A decrease in lift and an increase in drag.'
+    d: 'An increase in lift and an increase in drag.'
   points: 1
 - number: 8
-  question: ''
+  question: 'Stalling speed is increased if:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'weight is increased.'
+    b: 'weight is decreased.'
+    c: 'load factor is increased.'
+    d: 'angle of attack is increased.'
   points: 1
 - number: 9
-  question: ''
+  question: 'What do we call the angle between the chord line of an aerofoil 
+    and the relative airflow?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Angle of incidence.'
+    b: 'Stalling angle'
+    c: 'Sweepback.'
+    d: 'Angle of attack.'
   points: 1
 - number: 10
-  question: ''
+  question: 'Increasing the load factor will:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'decrease the stalling speed.'
+    b: 'increase the stalling speed.'
+    c: 'increase the stalling angle.'
+    d: 'decrease the stalling angle.'
   points: 1
 - number: 11
   question: ''
