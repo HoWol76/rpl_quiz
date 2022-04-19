@@ -1,0 +1,162 @@
+- number: 1
+  question: 'Seat belts/safety harness must be worn, at all stages of flight, by:'
+  answers:
+    a: the pilot when she/he is the sole pilot.
+    b: the occupants of both control seats.
+    c: all on board during climb and descent.
+    d: two children when they occupy a single seat.
+- number: 2
+  question: 'Civil Aviation Regulations require that turns onto final approach should:'
+  answers:
+    a: commence not below 500 ft AGL.
+    b: be completed not below 500 ft AGL.
+    c: be completed not closer than 500 metres from the aerodrome perimeter.
+    d: be completed not closer than 500 metres from any displaced threshold.
+- number: 3
+  question: 'A pilot shall not consume any alcoholic liquor:'
+  answers:
+    a: 12 hours before departure of a flight.
+    b: 24 hours before reporting for duty.
+    c: 8 hours before reporting for duty.
+    d: 8 hours before departure of the flight.
+- number: 4
+  question: 'The minimum horizontal distance from cloud for a fixed-wing aircraft,
+    operating in class G airspace, is:'
+  answers:
+    a: 1,500 metres
+    b: 1,500 ft
+    c: 1,000 ft
+    d: clear of cloud
+- number: 5
+  question: 'The fuel system in an aircraft must be checked for water contamination:'
+  answers:
+    a: before each flight.
+    b: before the first flight of the day and after each refuling.
+    c: before the first flight of the day and after the last flight of the day.
+    d: at least once a day.
+- number: 6
+  question: 'One restriction placed on VFR aircraft, operating at or below 2,000 ft,
+    is:'
+  answers:
+    a: minimum horizontal distance from cloud is 2,000 metres.
+    b: minimum flight visibility is 6km.
+    c: navigation must be by visual reference to the ground or water.
+    d: minimum vertical distance from cloud is 1,000 ft.
+- number: 7
+  question: 'A student pilot is not permitted to carry passengers unless:'
+  answers:
+    a: he/she has completed 2 hours as pilot in command.
+    b: he/she has passed the General Flying Progress Test and flies withing the student
+      pilot area limits.
+    c: he/she has completed 5 hours of cross-country flying.
+    d: he/she has had a dual flight within the last 30 days.
+- number: 8
+  question: 'With local QNH set on the subscale, an altimeter will always read:'
+  answers:
+    a: pressure height
+    b: density height.
+    c: height above mean sea level.
+    d: height above ground level.
+- number: 9
+  question: 'At a non-towered aerodrome, you should not continue an approach beyond
+    the threshold until a preceeding light aeroplane, using the same runway, has:'
+  answers:
+    a: landed, and has vacated the runwaym irrespective of the runway length, and
+      is taxiing away.
+    b: landed, and is at least 1,800 metres from the landing threshold.
+    c: taken off and is at least 200 ft AGL.
+    d: taken off and is at least 600 metres ahead of the landing threshold.
+- number: 10
+  question: 'You are to operate from a non-towered aerodrome where there is no ATIS
+    and no other way of knowing the latest QNH. Before take-off, you should:'
+  answers:
+    a: set the altimeter to the aerodrome elevation.
+    b: set the altimeter to read zero feet.
+    c: set an approximate aerodrome pressure in the subscale.
+    d: set 1013 hPa on the subscale.
+- number: 11
+  question: 'One item which must be included in the passenger briefing prior to take-off
+    is:'
+  answers:
+    a: a demonstration of the correct crash landing position.
+    b: the use and location of the fire extinguishers.
+    c: the use and adjustment of the seat belts.
+    d: the demonstration of evacuation procedures.
+- number: 12
+  question: With regard to the rules of the air in the CAR, which of the statements
+    is correct?
+  answers:
+    a: An aircraft that is overtaking another aeroplane, has the right of way.
+    b: If an aircraft and a glider are approaching head-on at approximately the same
+      height the aeroplane must give way to the glider.
+    c: An aircraft that is within 70 degree of the astern position of the aircraft
+      ahead is considered an overtaking aircraft if its speed it greater.
+    d: An aircraft that is overtaking another aircraft must do so by alterin its heading
+      to the left.
+- number: 13
+  question: On which of the following types of flying is a passenger not permitted
+    to be carried?
+  answers:
+    a: An aircraft engaged in aerobatic flying.
+    b: Flying training given to a person who has not passed the General Flying Progress
+      Test (GPFT).
+    c: An aircraft carrying out formation flying.
+    d: An aircraft engaged in search and rescue (SAR) operations.
+- number: 14
+  question: 'You are to carry out a flight from Parafield to the training area in
+    a Piper Arrow - XYG. You are also in receipt of ATIS information "Charlie", indicating
+    Runway 21 Right is being used. Your pre-taxi radio call will be:'
+  answers:
+    a: '"Parafield Ground, X-ray Yankee Golf, Piper Arrow, received Charlie, VFR to
+      the training area, Runway 21 Right".'
+    b: '"Parafield Ground, Piper Arrow X-ray Yankee Golf, for the Training Area, 
+      Runway 21 Right, taxi clearance, received Charlie."'
+    c: '"Parafield Ground, X-ray Yankee Golf, Runway 21 Right, for the Training Area, 
+      received Charlie."'
+    d: '"Parafield Ground, Piper Arrow X-ray Yankee Golf, taxi clearance for the 
+      Training Area, Runway 21 Right, received Charlie.' 
+- number: 15
+  question: 'Area QNH is:'
+  answers:
+    a: the aerodrome pressure set in the altimeter before taxiing.
+    b: the mean sea level pressure set the altimeter before taxiing.
+    c: the local aerodrome pressure set in the altimeter while on navigation or cross-country
+      flight.
+    d: the mean sea level pressure set in the altimeter of the area over which the
+      aircraft is flying while on navigation or cross-country exercise.
+- number: 16
+  question: 'When the aerodrome QNH is set, during taxi, the altimeter should read:'
+  answers:
+    a: zero.
+    b: airfield elevation.
+    c: vertical distance AGL.
+    d: vertical distance AAL.
+- number: 17
+  question: 'One of the basic rules following an engine failure immediately after
+    take-off is:'
+  answers:
+    a: always try to restart the engine.
+    b: immdiately make a distress call.
+    c: never turn back to the runway.
+- number: 18
+  question: 'A hard pull on the control column can cause an aeroplane to stall at
+    almost any speed because:'
+  answers:
+    a: of reduced control effectiveness.
+    b: the critical angle of attack can be exceeded.
+    c: of decreased angle of attack.
+    d: of reduced airspeed.
+- number: 19
+  question: 'A white dumb-bell symbol has been placed adjacent the primary wind indicator
+    on your airfield. This means:'
+  answers:
+    a: the airfield is completely unserviceable.
+    b: poor surface in this area, do not taxi here.
+    c: parachute operations in progress.
+    d: use hard surfaces only.
+- number: 20
+  question: 'An aircraft stall warning device will:'
+  answers:
+    a: indicate that a stall has occurred.
+    b: cause a light to come on and a horn to sound after the aircraft stalls.
+    c: indicate that the aircraft is approaching the stall at any attitude.
