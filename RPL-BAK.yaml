@@ -285,60 +285,65 @@
       fuel contamination.'
   points: 1
 - number: 34
-  question: ''
+  question: 'Fuel that appears to be uncoloured or very pale yellow is:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: '100 LL low-lead AVGAS for piston engines.'
+    b: '100/130 AVGAS for piston engines.'
+    c: 'MOGAS.'
+    d: 'AVTUR (kerosene) for turbine engines (i.e. jet or prop-jet engines).'
   points: 1
 - number: 35
-  question: ''
+  question: 'To improve engine cooling during maximum power climb, you should:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'fly at a higher IAS.'
+    b: 'fly at a lower IAS.'
+    c: 'lean the fuel-air mixture.'
+    d: 'apply carburettor heat.'
   points: 1
 - number: 36
-  question: ''
+  question: 'The correct sequence of the various strokes in a four-stroke engine is:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'intake, compression, power, exhaust.'
+    b: 'intake, exhaust, power, compression.'
+    c: 'intake, power, compression, exhaust.'
+    d: 'intake, power, exhaust, compression.'
   points: 1
 - number: 37
-  question: ''
+  question: 'Which statement concerning carburettor ice do you consider most accurate?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'Carburettor ice is most likely to form when the air temperature is in the 
+      range -10\u00B0C to +20\u00B0C with visible moisture or high humidity.'
+    b: 'The carburettor heater is a de-icing device that heats the air after it 
+      leaves the carburettor.'
+    c: 'Carburettor ice will always form when the temperature is below freezing.'
+    d: 'The first indication of carburettor icing in an aeroplane with a fixed-pitch 
+      propeller is an increase in rpm.'
   points: 1
 - number: 38
-  question: ''
+  question: 'If the static vent ices over during descent, the airspeed indicator 
+    will then read:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'zero.'
+    b: 'higher than actual IAS.'
+    c: 'lower than actual IAS.'
+    d: 'correctly.'
   points: 1
 - number: 39
-  question: ''
+  question: 'With battery and generator switches ON, what is the probable reason 
+    for a zero reading on a left-zero ammeter?'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'The battery is fully charged.'
+    b: 'The alternator is still charging the battery.'
+    c: 'The battery is completely flat.'
+    d: 'The alternator has failed.'
   points: 1
 - number: 40
-  question: ''
+  question: 'The pitot-static system supplies pressure for:'
   answers:
-    a: ''
-    b: ''
-    c: ''
-    d: ''
+    a: 'the ASI only.'
+    b: 'the ASI, artificial horizon, and VSI.'
+    c: 'the ASI, turn and slip indicator and altimeter.'
+    d: 'the ASI, VSI and altimeter.'
   points: 1
 - number: 41
   question: ''
