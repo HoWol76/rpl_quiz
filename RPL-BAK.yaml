@@ -1,475 +1,476 @@
+questions:
 - number: 1
-  question: 'Where the refuelling equipment is not mobile, the Civil Aviation 
-    Orders require that an aeroplane being refulled shall:'
+  question: "Where the refuelling equipment is not mobile, the Civil Aviation \\n
+    Orders require that an aeroplane being refulled shall:"
   answers:
-    a: 'have no persons on board.'
-    b: 'have a fire extinguiser on board.'
-    c: 'have all electrical systems switched off.'
-    d: 'be so placed that it can rapidly be moved to a place of safety if needed.'
+    a: "have no persons on board."
+    b: "have a fire extinguiser on board."
+    c: "have all electrical systems switched off."
+    d: "be so placed that it can rapidly be moved to a place of safety if needed."
   points: 1
 - number: 2
-  question: 'An aeroplane\'s fuel must be checked for presence of water:'
+  question: "An aeroplane's fuel must be checked for presence of water:"
   answers:
-    a: 'prior to every flight.'
-    b: 'prior to the first flight of the day and at each change of pilots.'
-    c: 'prior to the first flight of the day and following each refuelling.'
-    d: 'after each refuelling and/or change of pilots.'
+    a: "prior to every flight."
+    b: "prior to the first flight of the day and at each change of pilots."
+    c: "prior to the first flight of the day and following each refuelling."
+    d: "after each refuelling and/or change of pilots."
   points: 1
 - number: 3
-  question: 'Following an incident (a reportable matter), it shall be reported:'
+  question: "Following an incident (a reportable matter), it shall be reported:"
   answers:
-    a: 'within 72 hours, in writing for an RRM.'
-    b: 'immediately by telephone for an IRM -- followed by a report in writing 
-      within 72 hours.'
-    c: 'Either of the above, as appropriate.'
+    a: "within 72 hours, in writing for an RRM."
+    b: "immediately by telephone for an IRM -- followed by a report in writing 
+      within 72 hours."
+    c: "Either of the above, as appropriate."
   points: 1
 - number: 4
-  question: 'Which of the following would justify a Mayday call?'
+  question: "Which of the following would justify a Mayday call?"
   answers:
-    a: 'You need navigational assistance.'
-    b: 'You sight a capsized yacht off the coast.'
-    c: 'A passenger becomes ill and you need to land for medical assistance.'
-    d: 'You have an engine failure on a training flight.'
+    a: "You need navigational assistance."
+    b: "You sight a capsized yacht off the coast."
+    c: "A passenger becomes ill and you need to land for medical assistance."
+    d: "You have an engine failure on a training flight."
   points: 1
 - number: 5
-  question: 'An aeroplane must not fly over populated area at a height lower than:'
+  question: "An aeroplane must not fly over populated area at a height lower than:"
   answers:
-    a: '1,500 ft AMSL.'
-    b: '1,000 ft on the area QNH.'
-    c: '1,000 ft AGL.'
-    d: '500 ft AGL.'
+    a: "1,500 ft AMSL."
+    b: "1,000 ft on the area QNH."
+    c: "1,000 ft AGL."
+    d: "500 ft AGL."
   points: 1
 - number: 6
-  question: 'Increasing power when flying straight and level at cruise speed 
-    will cause:'
+  question: "Increasing power when flying straight and level at cruise speed 
+    will cause:"
   answers:
-    a: 'an increase in airspeed and a decrease in drag.'
-    b: 'an increase in airspeed and an increase in drag.'
-    c: 'a decrease in airspeed and a decrease in drag.'
-    d: 'a decrease in airspeed and an increase in drag.'
+    a: "an increase in airspeed and a decrease in drag."
+    b: "an increase in airspeed and an increase in drag."
+    c: "a decrease in airspeed and a decrease in drag."
+    d: "a decrease in airspeed and an increase in drag."
   points: 1
 - number: 7
-  question: 'What is the effect of lowering full flap?'
+  question: "What is the effect of lowering full flap?"
   answers:
-    a: 'An increase in lift and a decrease in drag.'
-    b: 'A decrease in lift and a decrease in drag.'
-    c: 'A decrease in lift and an increase in drag.'
-    d: 'An increase in lift and an increase in drag.'
+    a: "An increase in lift and a decrease in drag."
+    b: "A decrease in lift and a decrease in drag."
+    c: "A decrease in lift and an increase in drag."
+    d: "An increase in lift and an increase in drag."
   points: 1
 - number: 8
-  question: 'Stalling speed is increased if:'
+  question: "Stalling speed is increased if:"
   answers:
-    a: 'weight is increased.'
-    b: 'weight is decreased.'
-    c: 'load factor is increased.'
-    d: 'angle of attack is increased.'
+    a: "weight is increased."
+    b: "weight is decreased."
+    c: "load factor is increased."
+    d: "angle of attack is increased."
   points: 1
 - number: 9
-  question: 'What do we call the angle between the chord line of an aerofoil 
-    and the relative airflow?'
+  question: "What do we call the angle between the chord line of an aerofoil 
+    and the relative airflow?"
   answers:
-    a: 'Angle of incidence.'
-    b: 'Stalling angle'
-    c: 'Sweepback.'
-    d: 'Angle of attack.'
+    a: "Angle of incidence."
+    b: "Stalling angle"
+    c: "Sweepback."
+    d: "Angle of attack."
   points: 1
 - number: 10
-  question: 'Increasing the load factor will:'
+  question: "Increasing the load factor will:"
   answers:
-    a: 'decrease the stalling speed.'
-    b: 'increase the stalling speed.'
-    c: 'increase the stalling angle.'
-    d: 'decrease the stalling angle.'
+    a: "decrease the stalling speed."
+    b: "increase the stalling speed."
+    c: "increase the stalling angle."
+    d: "decrease the stalling angle."
   points: 1
 - number: 11
-  question: 'What happens to lift and drag as the angle of attack approaches 
-    the stalling angle?'
+  question: "What happens to lift and drag as the angle of attack approaches 
+    the stalling angle?"
   answers:
-    a: 'Lift increases and drag increases'
-    b: 'Lift increases and drag decreases'
-    c: 'Lift decreases and drag decreases'
-    d: 'Lift decreases and drag increases'
+    a: "Lift increases and drag increases"
+    b: "Lift increases and drag decreases"
+    c: "Lift decreases and drag decreases"
+    d: "Lift decreases and drag increases"
   points: 1
 - number: 12
-  question: 'An aeroplane is descending at the best gliding speed. Raising the 
-    nose will:'
+  question: "An aeroplane is descending at the best gliding speed. Raising the 
+    nose will:"
   answers:
-    a: 'increase the gliding range.'
-    b: 'decrease the gliding range.'
-    c: 'decrease the gliding angle.'
-    d: 'decrease the rate of descent.'
+    a: "increase the gliding range."
+    b: "decrease the gliding range."
+    c: "decrease the gliding angle."
+    d: "decrease the rate of descent."
   points: 1
 - number: 13
-  question: 'When compared to the stall IAS at 1,000 ft, the stall IAS at 
-    10,000 ft will:'
+  question: "When compared to the stall IAS at 1,000 ft, the stall IAS at 
+    10,000 ft will:"
   answers:
-    a: 'increase by approximately 40%.'
-    b: 'decrease by approximately 40%.'
-    c: 'be the same.'
-    d: 'vary according to the actual density at 10,000 ft.'
+    a: "increase by approximately 40%."
+    b: "decrease by approximately 40%."
+    c: "be the same."
+    d: "vary according to the actual density at 10,000 ft."
   points: 1
 - number: 14
-  question: 'If a tailwind is encountered during a glide descent, when compared 
-    with a glide in still-air conditions, the:'
+  question: "If a tailwind is encountered during a glide descent, when compared 
+    with a glide in still-air conditions, the:"
   answers:
-    a: 'aeroplane pitch angle will be shallower.'
-    b: 'flightpath over ground will be steeper.'
-    c: 'distance over ground will be greater.'
-    d: 'rate of decent will be less.'
+    a: "aeroplane pitch angle will be shallower."
+    b: "flightpath over ground will be steeper."
+    c: "distance over ground will be greater."
+    d: "rate of decent will be less."
   points: 1
 - number: 15
-  question: 'When in a 30 degree banked level turn, the load factor:'
+  question: "When in a 30 degree banked level turn, the load factor:"
   answers:
-    a: 'is the same as in straight an level flight.'
-    b: 'decreases by a factor of 15%.'
-    c: 'will increase to 1.15g.'
-    d: 'will be limited by the airspeed.'
+    a: "is the same as in straight an level flight."
+    b: "decreases by a factor of 15%."
+    c: "will increase to 1.15g."
+    d: "will be limited by the airspeed."
   points: 1
 - number: 16
-  question: 'What are the VMC requirements for a VFR flight conducted in Class G 
-    airspace between 3,000 fg AMSL (or 1,000 ft AGL if higher) and 10,000 ft AMSL?'
+  question: "What are the VMC requirements for a VFR flight conducted in Class G 
+    airspace between 3,000 fg AMSL (or 1,000 ft AGL if higher) and 10,000 ft AMSL?"
   answers:
-    a: 'Visibility 5 km, clear of cloud.'
-    b: 'Visibility 8 km, 1,000 metre horizontally from cloud, 1,000 ft above or 
-      below cloud.'
-    c: 'Visibility 5,000 metres, 1,500 metres horizontally from cloud, 1,000 ft 
-      vertically from cloud.'
-    d: 'Visibility 8,000 metres, clear of cloud.'
+    a: "Visibility 5 km, clear of cloud."
+    b: "Visibility 8 km, 1,000 metre horizontally from cloud, 1,000 ft above or 
+      below cloud."
+    c: "Visibility 5,000 metres, 1,500 metres horizontally from cloud, 1,000 ft 
+      vertically from cloud."
+    d: "Visibility 8,000 metres, clear of cloud."
   points: 1
 - number: 17
-  question: 'A cold front is likely to produce:'
+  question: "A cold front is likely to produce:"
   answers:
-    a: 'cumiliform clouds with smooth flying conditions.'
-    b: 'stratiform clouds with smooth flying conditions.'
-    c: 'cumiliform clouds with turbulent flying conditions.'
-    d: 'stratiform clouds with turbulent conditions.'
+    a: "cumiliform clouds with smooth flying conditions."
+    b: "stratiform clouds with smooth flying conditions."
+    c: "cumiliform clouds with turbulent flying conditions."
+    d: "stratiform clouds with turbulent conditions."
   points: 1
 - number: 18
-  question: 'The term INTER on a forecast means that the weather will be:'
+  question: "The term INTER on a forecast means that the weather will be:"
   answers:
-    a: 'interminable in nature.'
-    b: 'expected to last for at least 60 minutes.'
-    c: 'interrupted every 30 minutes.'
-    d: 'expected to last for less than 30 minutes.'
+    a: "interminable in nature."
+    b: "expected to last for at least 60 minutes."
+    c: "interrupted every 30 minutes."
+    d: "expected to last for less than 30 minutes."
   points: 1
 - number: 19
-  question: 'The cloud base in a TAF is given as height above:'
+  question: "The cloud base in a TAF is given as height above:"
   answers:
-    a: 'the 1013.2 hPa level.'
-    b: 'the highest ground within 10 km of the aerodrome.'
-    c: 'mean sea level.'
-    d: 'aerodrome level.'
+    a: "the 1013.2 hPa level."
+    b: "the highest ground within 10 km of the aerodrome."
+    c: "mean sea level."
+    d: "aerodrome level."
   points: 1
 - number: 20
-  question: 'The wind direction in the ATIS is given in:'
+  question: "The wind direction in the ATIS is given in:"
   answers:
-    a: 'degrees true from the wind direction.'
-    b: 'degrees magnetic to the wind direction.'
-    c: 'degrees magnetic from the wind direction.'
-    d: 'devrees true to the wind direction.'
+    a: "degrees true from the wind direction."
+    b: "degrees magnetic to the wind direction."
+    c: "degrees magnetic from the wind direction."
+    d: "devrees true to the wind direction."
   points: 1
 - number: 21
-  question: 'Using your navigation computer, determine the true airspeed (TAS) 
+  question: "Using your navigation computer, determine the true airspeed (TAS) 
     if you are flying at 120 kt IAS, with temperature +15\u00B0C and a pressure altitude 
-    of 8,000 ft.'
+    of 8,000 ft."
   answers:
-    a: '139 kt'
-    b: '132 kt'
-    c: '127 kt'
-    d: '120 kt'
+    a: "139 kt"
+    b: "132 kt"
+    c: "127 kt"
+    d: "120 kt"
   points: 1
 - number: 22
-  question: 'If the time in Sydney on 23 March is 0628 EST, what is the UTC time?'
+  question: "If the time in Sydney on 23 March is 0628 EST, what is the UTC time?"
   answers:
-    a: '231628 UTC'
-    b: '222028 UTC'
-    c: '232028 UTC'
-    d: '221628 UTC'
+    a: "231628 UTC"
+    b: "222028 UTC"
+    c: "232028 UTC"
+    d: "221628 UTC"
   points: 1
 - number: 23
-  question: 'The track to your training area is 270\u00B0M. If the wind is from 
-    the south and is causing 10\u00B0 of drift, your heading would be closes to:'
+  question: "The track to your training area is 270\u00B0M. If the wind is from 
+    the south and is causing 10\u00B0 of drift, your heading would be closes to:"
   answers:
-    a: '270\u00B0T'
-    b: '280\u00B0M'
-    c: '290\u00B0T'
-    d: '260\u00B0M'
+    a: "270\u00B0T"
+    b: "280\u00B0M"
+    c: "290\u00B0T"
+    d: "260\u00B0M"
   points: 1
 - number: 24
-  question: 'Magnetic variation is:'
+  question: "Magnetic variation is:"
   answers:
-    a: 'the angular difference between magnetic north and compass north.'
-    b: 'the direction in which all compass errors occur.'
-    c: 'always expressed in degrees, either East or West.'
-    d: 'the angular difference between true north and compass north.'
+    a: "the angular difference between magnetic north and compass north."
+    b: "the direction in which all compass errors occur."
+    c: "always expressed in degrees, either East or West."
+    d: "the angular difference between true north and compass north."
   points: 1
 - number: 25
-  question: 'A line of longitude on a WAC is:'
+  question: "A line of longitude on a WAC is:"
   answers:
-    a: 'drawn north-south and represents true north and true south.'
-    b: 'drawn east-west and represents magnetic north and magnetic south.'
-    c: 'sometimes referred to as isogonal.'
-    d: 'drawn parallel to the next meridian.'
+    a: "drawn north-south and represents true north and true south."
+    b: "drawn east-west and represents magnetic north and magnetic south."
+    c: "sometimes referred to as isogonal."
+    d: "drawn parallel to the next meridian."
   points: 1
 - number: 26
-  question: 'On a day when the temperature is 30\u00B0C and the relative humidity 
-    is 30%, carburettor ice:'
+  question: "On a day when the temperature is 30\u00B0C and the relative humidity 
+    is 30%, carburettor ice:"
   answers:
-    a: 'is unlikely to form.'
-    b: 'will form with maximum power set.'
-    c: 'is likely to form with cruise power set.'
-    d: 'is highly likely to form with low power set.'
+    a: "is unlikely to form."
+    b: "will form with maximum power set."
+    c: "is likely to form with cruise power set."
+    d: "is highly likely to form with low power set."
   points: 1
 - number: 27
-  question: 'Why do most aeroplane piston engines have dual ignition systems?'
+  question: "Why do most aeroplane piston engines have dual ignition systems?"
   answers:
-    a: 'For the sole reason of safety in the even of the failure of one magneto.'
-    b: 'For safety and improved combustion.'
-    c: 'For improved combustion even though safety is not increased.'
-    d: 'To spread the load between each of the spark plugs in a cylinder.'
+    a: "For the sole reason of safety in the even of the failure of one magneto."
+    b: "For safety and improved combustion."
+    c: "For improved combustion even though safety is not increased."
+    d: "To spread the load between each of the spark plugs in a cylinder."
   points: 1
 - number: 28
-  question: 'If, following combustion, there is unburned fuel remaining in the 
-    cylinders, then the mixture is described as:'
+  question: "If, following combustion, there is unburned fuel remaining in the 
+    cylinders, then the mixture is described as:"
   answers:
-    a: 'rich.'
-    b: 'chemically correct for the power setting being used.'
-    c: 'lean.'
-    d: 'having a fuel/air ratio of 100%.'
+    a: "rich."
+    b: "chemically correct for the power setting being used."
+    c: "lean."
+    d: "having a fuel/air ratio of 100%."
   points: 1
 - number: 29
-  question: 'What do we call explosive, spontaneous combustion in the cylinders?'
+  question: "What do we call explosive, spontaneous combustion in the cylinders?"
   answers:
-    a: 'Run-on.'
-    b: 'Detonation.'
-    c: 'Pre-ignition.'
-    d: 'Normal combustion.'
+    a: "Run-on."
+    b: "Detonation."
+    c: "Pre-ignition."
+    d: "Normal combustion."
   points: 1
 - number: 30
-  question: 'What is one effect of carburettor heat?'
+  question: "What is one effect of carburettor heat?"
   answers:
-    a: 'It will result in more air immediately going through the carburettor.'
-    b: 'It will not affect the fuel-air mixture.'
-    c: 'It will enrich the mixture.'
-    d: 'It will lean the mixture.'
+    a: "It will result in more air immediately going through the carburettor."
+    b: "It will not affect the fuel-air mixture."
+    c: "It will enrich the mixture."
+    d: "It will lean the mixture."
   points: 1
 - number: 31
-  question: 'Which flight instrument gives a pilot a direct reading of the bank angle?'
+  question: "Which flight instrument gives a pilot a direct reading of the bank angle?"
   answers:
-    a: 'Direction indicator.'
-    b: 'Attitude indicator.'
-    c: 'Turn coordinator.'
-    d: 'Magnetic compass.'
+    a: "Direction indicator."
+    b: "Attitude indicator."
+    c: "Turn coordinator."
+    d: "Magnetic compass."
   points: 1
 - number: 32
-  question: 'You are cruising in an aeroplane with a fixed-pitch propeller and notice 
+  question: "You are cruising in an aeroplane with a fixed-pitch propeller and notice 
     a slight drop in engine RPM. You suspect carburettor icing and apply full 
     carburettor heat. Which one of the following statements most correctly indicates 
-    that ice was present?'
+    that ice was present?"
   answers:
-    a: 'There will be an immediate increase in engine rpm as soon as the carburettor 
-      heat is applied.'
-    b: 'The engine will start to run roughly with a further decrease in engine rpm.'
-    c: 'The engine rpm will remain constant.'
-    d: 'The engine rpm will decrease and then increase.'
+    a: "There will be an immediate increase in engine rpm as soon as the carburettor 
+      heat is applied."
+    b: "The engine will start to run roughly with a further decrease in engine rpm."
+    c: "The engine rpm will remain constant."
+    d: "The engine rpm will decrease and then increase."
   points: 1
 - number: 33
-  question: 'When compared with an engine fitted with a carburettor, which of the 
-    following applies to a fuel-injected engine?'
+  question: "When compared with an engine fitted with a carburettor, which of the 
+    following applies to a fuel-injected engine?"
   answers:
-    a: 'It is more prone to starting problems and is less susceptible to fuel 
-      contamination.'
-    b: 'It is easier to start when hot and is more responsive to throttle movement.'
-    c: 'It is less likely to have icing problems and is more efficient.'
-    d: 'It requires greater care in throttle handling and is more susceptible to 
-      fuel contamination.'
+    a: "It is more prone to starting problems and is less susceptible to fuel 
+      contamination."
+    b: "It is easier to start when hot and is more responsive to throttle movement."
+    c: "It is less likely to have icing problems and is more efficient."
+    d: "It requires greater care in throttle handling and is more susceptible to 
+      fuel contamination."
   points: 1
 - number: 34
-  question: 'Fuel that appears to be uncoloured or very pale yellow is:'
+  question: "Fuel that appears to be uncoloured or very pale yellow is:"
   answers:
-    a: '100 LL low-lead AVGAS for piston engines.'
-    b: '100/130 AVGAS for piston engines.'
-    c: 'MOGAS.'
-    d: 'AVTUR (kerosene) for turbine engines (i.e. jet or prop-jet engines).'
+    a: "100 LL low-lead AVGAS for piston engines."
+    b: "100/130 AVGAS for piston engines."
+    c: "MOGAS."
+    d: "AVTUR (kerosene) for turbine engines (i.e. jet or prop-jet engines)."
   points: 1
 - number: 35
-  question: 'To improve engine cooling during maximum power climb, you should:'
+  question: "To improve engine cooling during maximum power climb, you should:"
   answers:
-    a: 'fly at a higher IAS.'
-    b: 'fly at a lower IAS.'
-    c: 'lean the fuel-air mixture.'
-    d: 'apply carburettor heat.'
+    a: "fly at a higher IAS."
+    b: "fly at a lower IAS."
+    c: "lean the fuel-air mixture."
+    d: "apply carburettor heat."
   points: 1
 - number: 36
-  question: 'The correct sequence of the various strokes in a four-stroke engine is:'
+  question: "The correct sequence of the various strokes in a four-stroke engine is:"
   answers:
-    a: 'intake, compression, power, exhaust.'
-    b: 'intake, exhaust, power, compression.'
-    c: 'intake, power, compression, exhaust.'
-    d: 'intake, power, exhaust, compression.'
+    a: "intake, compression, power, exhaust."
+    b: "intake, exhaust, power, compression."
+    c: "intake, power, compression, exhaust."
+    d: "intake, power, exhaust, compression."
   points: 1
 - number: 37
-  question: 'Which statement concerning carburettor ice do you consider most accurate?'
+  question: "Which statement concerning carburettor ice do you consider most accurate?"
   answers:
-    a: 'Carburettor ice is most likely to form when the air temperature is in the 
-      range -10\u00B0C to +20\u00B0C with visible moisture or high humidity.'
-    b: 'The carburettor heater is a de-icing device that heats the air after it 
-      leaves the carburettor.'
-    c: 'Carburettor ice will always form when the temperature is below freezing.'
-    d: 'The first indication of carburettor icing in an aeroplane with a fixed-pitch 
-      propeller is an increase in rpm.'
+    a: "Carburettor ice is most likely to form when the air temperature is in the 
+      range -10\u00B0C to +20\u00B0C with visible moisture or high humidity."
+    b: "The carburettor heater is a de-icing device that heats the air after it 
+      leaves the carburettor."
+    c: "Carburettor ice will always form when the temperature is below freezing."
+    d: "The first indication of carburettor icing in an aeroplane with a fixed-pitch 
+      propeller is an increase in rpm."
   points: 1
 - number: 38
-  question: 'If the static vent ices over during descent, the airspeed indicator 
-    will then read:'
+  question: "If the static vent ices over during descent, the airspeed indicator 
+    will then read:"
   answers:
-    a: 'zero.'
-    b: 'higher than actual IAS.'
-    c: 'lower than actual IAS.'
-    d: 'correctly.'
+    a: "zero."
+    b: "higher than actual IAS."
+    c: "lower than actual IAS."
+    d: "correctly."
   points: 1
 - number: 39
-  question: 'With battery and generator switches ON, what is the probable reason 
-    for a zero reading on a left-zero ammeter?'
+  question: "With battery and generator switches ON, what is the probable reason 
+    for a zero reading on a left-zero ammeter?"
   answers:
-    a: 'The battery is fully charged.'
-    b: 'The alternator is still charging the battery.'
-    c: 'The battery is completely flat.'
-    d: 'The alternator has failed.'
+    a: "The battery is fully charged."
+    b: "The alternator is still charging the battery."
+    c: "The battery is completely flat."
+    d: "The alternator has failed."
   points: 1
 - number: 40
-  question: 'The pitot-static system supplies pressure for:'
+  question: "The pitot-static system supplies pressure for:"
   answers:
-    a: 'the ASI only.'
-    b: 'the ASI, artificial horizon, and VSI.'
-    c: 'the ASI, turn and slip indicator and altimeter.'
-    d: 'the ASI, VSI and altimeter.'
+    a: "the ASI only."
+    b: "the ASI, artificial horizon, and VSI."
+    c: "the ASI, turn and slip indicator and altimeter."
+    d: "the ASI, VSI and altimeter."
   points: 1
 - number: 41
-  question: 'If you decide to fly when you have a cold or flu, you put yourself at 
-    risk of:'
+  question: "If you decide to fly when you have a cold or flu, you put yourself at 
+    risk of:"
   answers:
-    a: 'being too tired to concentrate.'
-    b: 'having balance difficulties and sinus pain.'
-    c: 'becoming dehydrated.'
-    d: 'developing hypoxia.'
+    a: "being too tired to concentrate."
+    b: "having balance difficulties and sinus pain."
+    c: "becoming dehydrated."
+    d: "developing hypoxia."
   points: 1
 - number: 42
-  question: 'Atmospheric pressure variations affect the human body. These pressure 
-    changes are:'
+  question: "Atmospheric pressure variations affect the human body. These pressure 
+    changes are:"
   answers:
-    a: 'minimum at low level so we generally don\'t need to worry about them.'
-    b: 'minimum at high altitude.'
-    c: 'maximum at high altitude so we need pressurisation and oxygen supplied.'
-    d: 'maximum at low level so we need to understand their adverse effects.'
+    a: "minimum at low level so we generally don't need to worry about them."
+    b: "minimum at high altitude."
+    c: "maximum at high altitude so we need pressurisation and oxygen supplied."
+    d: "maximum at low level so we need to understand their adverse effects."
   points: 1
 - number: 43
-  question: 'Which of the following drugs are considered acceptable for flying?'
+  question: "Which of the following drugs are considered acceptable for flying?"
   answers:
-    a: 'Antibiotics.'
-    b: 'Analgesics.'
-    c: 'Antihistamines.'
-    d: 'Amphetamines.'
-    e: 'None of the above.'
+    a: "Antibiotics."
+    b: "Analgesics."
+    c: "Antihistamines."
+    d: "Amphetamines."
+    e: "None of the above."
   points: 1
 - number: 44
-  question: 'If an aeroplane is loaded in such a way that the centre of gravity is 
-    outside the forward limit, it will:'
+  question: "If an aeroplane is loaded in such a way that the centre of gravity is 
+    outside the forward limit, it will:"
   answers:
-    a: 'be very unstable longitudinally.'
-    b: 'have a very short momentum arm.'
-    c: 'be very unstable about the normal axis.'
-    d: 'be very nose-heavy and difficult to rotate on take-off.'
+    a: "be very unstable longitudinally."
+    b: "have a very short momentum arm."
+    c: "be very unstable about the normal axis."
+    d: "be very nose-heavy and difficult to rotate on take-off."
   points: 1
 - number: 45
-  question: 'Along which axis of the aeroplane is the centre of gravity computed?'
+  question: "Along which axis of the aeroplane is the centre of gravity computed?"
   answers:
-    a: 'Laternal.'
-    b: 'Normal.'
-    c: 'Longitudinal.'
-    d: 'All of the above.'
+    a: "Laternal."
+    b: "Normal."
+    c: "Longitudinal."
+    d: "All of the above."
   points: 1
 - number: 46
-  question: 'An aeroplane must not be operated at a weight in excess of the maximum 
-    certified gross weight because:'
+  question: "An aeroplane must not be operated at a weight in excess of the maximum 
+    certified gross weight because:"
   answers:
-    a: 'structural limitations will be exceeded.'
-    b: 'an overloaded airplane is excessively stable in flight.'
-    c: 'flight in excess of certificated weights is not possible.'
-    d: 'fuel consumption will be greater.'
+    a: "structural limitations will be exceeded."
+    b: "an overloaded airplane is excessively stable in flight."
+    c: "flight in excess of certificated weights is not possible."
+    d: "fuel consumption will be greater."
   points: 1
 - number: 47
-  question: 'Which of the following factors improves take-off performance?'
+  question: "Which of the following factors improves take-off performance?"
   answers:
-    a: 'The runway sloping upwards.'
-    b: 'A tailwind.'
-    c: 'A crosswind.'
-    d: 'Low atmospheric pressure.'
-    e: 'Low atmospheric temperature.'
+    a: "The runway sloping upwards."
+    b: "A tailwind."
+    c: "A crosswind."
+    d: "Low atmospheric pressure."
+    e: "Low atmospheric temperature."
   points: 1
 - number: 48
-  question: 'V_NO is defined as the:'
+  question: "V_NO is defined as the:"
   answers:
-    a: 'maximum indicated airspeed for extended flaps.'
-    b: 'true airspeed beyond which flight is not permitted.'
-    c: 'maximum indicated airspeed for normal operations in smooth conditions.'
-    d: 'indicated airspeed beyond which flight is not permitted.'
+    a: "maximum indicated airspeed for extended flaps."
+    b: "true airspeed beyond which flight is not permitted."
+    c: "maximum indicated airspeed for normal operations in smooth conditions."
+    d: "indicated airspeed beyond which flight is not permitted."
   points: 1
 - number: 49
-  question: 'Strong wake turbulance produced by wingtip vortices is most likely to form:'
+  question: "Strong wake turbulance produced by wingtip vortices is most likely to form:"
   answers:
-    a: 'behind a heavy aeroplane which is flying slowly just after take-off.'
-    b: 'behind any aeroplane which is flying slowly and with full flap extended.'
-    c: 'behind any aeroplane with is flying at high speed.'
-    d: 'only behind aeroplanes powered by turbo-jet engines.'
+    a: "behind a heavy aeroplane which is flying slowly just after take-off."
+    b: "behind any aeroplane which is flying slowly and with full flap extended."
+    c: "behind any aeroplane with is flying at high speed."
+    d: "only behind aeroplanes powered by turbo-jet engines."
   points: 1
 - number: 50
-  question: 'As you approach to land the wind is gusting. You increase your approach 
-    speed by 5 kt to ensure a margin of safety. This means:'
+  question: "As you approach to land the wind is gusting. You increase your approach 
+    speed by 5 kt to ensure a margin of safety. This means:"
   answers:
-    a: 'the approach path flown will be steeper.'
-    b: 'climbing for a go-around will not be possible.'
-    c: 'the LDR will be greater.'
-    d: 'descent will be much more rapid.'
+    a: "the approach path flown will be steeper."
+    b: "climbing for a go-around will not be possible."
+    c: "the LDR will be greater."
+    d: "descent will be much more rapid."
   points: 1
 - number: 51
-  question: 'To load an aeroplane, where would you find the weight and balance 
-    details for the aircraft?'
+  question: "To load an aeroplane, where would you find the weight and balance 
+    details for the aircraft?"
   answers:
-    a: 'In the maintenance release.'
-    b: 'On the passenger manifest.'
-    c: 'In your flight instructors handbook.'
-    d: 'In the aircraft flight manual.'
+    a: "In the maintenance release."
+    b: "On the passenger manifest."
+    c: "In your flight instructors handbook."
+    d: "In the aircraft flight manual."
   points: 1
 - number: 52
-  question: 'The weight of 230 litres of AVGAS is closest to:'
+  question: "The weight of 230 litres of AVGAS is closest to:"
   answers:
-    a: '128 kg'
-    b: '145 kg'
-    c: '163 kg'
-    d: '172 kg'
-    e: '180 kg'
+    a: "128 kg"
+    b: "145 kg"
+    c: "163 kg"
+    d: "172 kg"
+    e: "180 kg"
   points: 1
 - number: 53
-  question: '
-  Use "Load System Charlie", p358. \n
+  question: "
+  Use \"Load System Charlie\", p358. \n
   \n
   Given: \n
   EW 695 kg \n
   IU 19,788 \n
   The student pilot weighs 60 kg and the instructor weighs 75 kg. \n
   \n
-  The maximum amount of fuel on board that will allow "utility category" operations immediately after take-off is closest to:'
+  The maximum amount of fuel on board that will allow \"utility category\" operations immediately after take-off is closest to:"
   answers:
-    a: '62 litres'
-    b: '88 litres'
-    c: '100 litres'
-    d: '123 litres'
-    e: '135 litres'
+    a: "62 litres"
+    b: "88 litres"
+    c: "100 litres"
+    d: "123 litres"
+    e: "135 litres"
   points: 3
 - number: 54
-  question: '
-  Use "Load System Charlie", p358. \n
+  question: "
+  Use \"Load System Charlie\", p358. \n
   \n
   Given: \n
   EW 695 kg \n
@@ -477,16 +478,16 @@
   The student pilot weighs 60 kg and the instructor weighs 75 kg. \n
   \n
   Load the aircraft with 95 kg weight of baggage and load 170 litres of fuel.\n
-  The zero fuel weight condition is closest to:'
+  The zero fuel weight condition is closest to:"
   answers:
-    a: 'weight 824 kg, arm 2,821 mm'
-    b: 'weight 890 kg, arm 2,933 mm'
-    c: 'weight 932 kg, arm 2,960 mm'
-    d: 'weight 990 kg, arm 3,004 mm'
+    a: "weight 824 kg, arm 2,821 mm"
+    b: "weight 890 kg, arm 2,933 mm"
+    c: "weight 932 kg, arm 2,960 mm"
+    d: "weight 990 kg, arm 3,004 mm"
   points: 2
 - number: 55
-  question: '
-  Use "Load System Charlie", p358. \n
+  question: "
+  Use \"Load System Charlie\", p358. \n
   \n
   Given: \n
   EW 695 kg \n
@@ -494,16 +495,16 @@
   The student pilot weighs 60 kg and the instructor weighs 75 kg. \n
   \n
   Load the aircraft with 95 kg weight of baggage and load 170 litres of fuel.\n
-  The take-off conditions is closest to:'
+  The take-off conditions is closest to:"
   answers:
-    a: 'weight 932 kg, arm 2,960 mm'
-    b: 'weight 1,013 kg, arm 2,999 mm'
-    c: 'weight 1,035 kg, arm 3,004 mm'
-    d: 'weight 1,053 kg, arm 2,960 mm'
-    e: 'weight 1,102 kg, arm 2,999 mm'
+    a: "weight 932 kg, arm 2,960 mm"
+    b: "weight 1,013 kg, arm 2,999 mm"
+    c: "weight 1,035 kg, arm 3,004 mm"
+    d: "weight 1,053 kg, arm 2,960 mm"
+    e: "weight 1,102 kg, arm 2,999 mm"
   points: 2
 - number: 56
-  question: 'Use the following data\n
+  question: "Use the following data\n
   Airfield:\n
     Elevation: 1,890 ft\n
     Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
@@ -518,15 +519,15 @@
     Runway wet.\n
     Works in progress Runway 17/35\n
   \n
-  The pressure altitude of this airfield is:'
+  The pressure altitude of this airfield is:"
   answers:
-    a: '1,800 ft'
-    b: '1,980 ft'
-    c: '2,260 ft'
-    d: '2,440 ft'
+    a: "1,800 ft"
+    b: "1,980 ft"
+    c: "2,260 ft"
+    d: "2,440 ft"
   points: 2
 - number: 57
-  question: 'Use the following data\n
+  question: "Use the following data\n
   Airfield:\n
     Elevation: 1,890 ft\n
     Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
@@ -541,15 +542,15 @@
     Runway wet.\n
     Works in progress Runway 17/35\n
   \n
-  The density altitude of this airfield is:'
+  The density altitude of this airfield is:"
   answers:
-    a: '1,800 ft'
-    b: '1,980 ft'
-    c: '2,260 ft'
-    d: '2,460 ft'
+    a: "1,800 ft"
+    b: "1,980 ft"
+    c: "2,260 ft"
+    d: "2,460 ft"
   points: 2
 - number: 58
-  question: 'Use the following data\n
+  question: "Use the following data\n
   Airfield:\n
     Elevation: 1,890 ft\n
     Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
@@ -564,15 +565,15 @@
     Runway wet.\n
     Works in progress Runway 17/35\n
   \n
-  The headwind component on the duty runway is closest to:'
+  The headwind component on the duty runway is closest to:"
   answers:
-    a: '5 kt'
-    b: '8 kt'
-    c: '10 kt'
-    d: '12 kt'
+    a: "5 kt"
+    b: "8 kt"
+    c: "10 kt"
+    d: "12 kt"
   points: 1
 - number: 59
-  question: 'Use the following data\n
+  question: "Use the following data\n
   Airfield:\n
     Elevation: 1,890 ft\n
     Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
@@ -588,15 +589,15 @@
     Works in progress Runway 17/35\n
   \n
   Use the Cessna take-off chart p376.\n
-  At the MTOW, the take-off distance required on runway 12 is closest to:'
+  At the MTOW, the take-off distance required on runway 12 is closest to:"
   answers:
-    a: '550 m.'
-    b: '730 m.'
-    c: '890 m.'
-    d: '980 m.'
+    a: "550 m."
+    b: "730 m."
+    c: "890 m."
+    d: "980 m."
   points: 3
 - number: 60
-  question: 'Use the following data\n
+  question: "Use the following data\n
   Airfield:\n
     Elevation: 1,890 ft\n
     Runways: 17/35 sealed TODA 3,000 metres (slope level)\n
@@ -613,10 +614,10 @@
   \n
   Use the Piper Landing Chart p 383.\n
   Under the conditions given, the landing distance required for this aircraft 
-  is closest to:'
+  is closest to:"
   answers:
-    a: '310 m.'
-    b: '420 m.'
-    c: '530 m.'
-    d: '640 m.'
+    a: "310 m."
+    b: "420 m."
+    c: "530 m."
+    d: "640 m."
   points: 3

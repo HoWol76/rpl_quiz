@@ -135,8 +135,8 @@
     c: 'the tendency to under-bank the aircraft as the horizon is not always obvious.'
   points: 1
 - number: 18
-  question: 'How is the aircraft\'s performance affected by mud or minor damage on 
-    the surface of the wings?'
+  question: "How is the aircraft's performance affected by mud or minor damage on 
+    the surface of the wings?"
   answers:
     a: 'Lift is decreased, drag is decreased.'
     b: 'Lift is increased, drag is decreased.'
@@ -196,8 +196,8 @@
     d: '30 seconds.'
   points: 1
 - number: 25
-  question: 'While taxiing, you notice another aircraft is approaching you on the same 
-    taxiway from the opposite direction. Should you:'
+  question: "While taxiing, you notice another aircraft is approaching you on the same  
+    taxiway from the opposite direction. Should you:"
   answers:
     a: 'continue straight ahead and be prepared to stop.'
     b: 'move to the left and stop if necessary.'
@@ -209,7 +209,7 @@
   answers:
     a: 'at a higher speed if power is increased.'
     b: 'at the same indicated airspeed as altitude increases.'
-    c: 'when the aircraft\'s weight exceeds lift'
+    c: "when the aircraft's weight exceeds lift"
     d: 'at a lower indicated airspeed as altitude decreases.'
   points: 1
 - number: 27
